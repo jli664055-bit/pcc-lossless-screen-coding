@@ -1,0 +1,642 @@
+[
+  {
+    "id": "SCID_SCI01_original",
+    "dataset": "Contrast32",
+    "source_dataset": "SCID",
+    "source_group": "SCID_SCI01",
+    "condition": "original",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SCID_SCI01_original.pgm",
+    "sha256": "ff9fe7f203065f7dd6f64b1cc3dd221ff549f65bca47775d2912d068320cc12e",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SCID_SCI01.pgm",
+    "source_sha256": "9e0303122c090052d207a1db99c23b0afd40407890f4f829b85008f12aa6204b",
+    "crop_xywh": [
+      384,
+      104,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SCID_SCI01_range32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "SCID",
+    "source_group": "SCID_SCI01",
+    "condition": "range32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SCID_SCI01_range32_224.pgm",
+    "sha256": "260e1d1ce091729947944fd892af8b12cba3150365a19305e6bdc6e44f74b482",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SCID_SCI01.pgm",
+    "source_sha256": "9e0303122c090052d207a1db99c23b0afd40407890f4f829b85008f12aa6204b",
+    "crop_xywh": [
+      384,
+      104,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SCID_SCI01_range96_160",
+    "dataset": "Contrast32",
+    "source_dataset": "SCID",
+    "source_group": "SCID_SCI01",
+    "condition": "range96_160",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SCID_SCI01_range96_160.pgm",
+    "sha256": "fd1eb4be97dfb60e1f3214858fdd7c19b9a9bb24d0eac3cc7ed2e57813546217",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SCID_SCI01.pgm",
+    "source_sha256": "9e0303122c090052d207a1db99c23b0afd40407890f4f829b85008f12aa6204b",
+    "crop_xywh": [
+      384,
+      104,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SCID_SCI01_inverted32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "SCID",
+    "source_group": "SCID_SCI01",
+    "condition": "inverted32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SCID_SCI01_inverted32_224.pgm",
+    "sha256": "3a818f8fffc50341a2bde6ac3edaef4838779f9fb25774302fa53198ca994443",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SCID_SCI01.pgm",
+    "source_sha256": "9e0303122c090052d207a1db99c23b0afd40407890f4f829b85008f12aa6204b",
+    "crop_xywh": [
+      384,
+      104,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SCID_SCI02_original",
+    "dataset": "Contrast32",
+    "source_dataset": "SCID",
+    "source_group": "SCID_SCI02",
+    "condition": "original",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SCID_SCI02_original.pgm",
+    "sha256": "9f33d9ca8bf11f50f33923d8d9e0f153c5de12c6e5cf74f29a52e25931af9714",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SCID_SCI02.pgm",
+    "source_sha256": "00f11b2b309e115f41615d71dbf28158ebbf4c6f931ccb562d049736f15b96bb",
+    "crop_xywh": [
+      384,
+      104,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SCID_SCI02_range32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "SCID",
+    "source_group": "SCID_SCI02",
+    "condition": "range32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SCID_SCI02_range32_224.pgm",
+    "sha256": "f97d00b53f6d8149edb9084a703b731a3c68c6c7cade3fefd76a144920354dac",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SCID_SCI02.pgm",
+    "source_sha256": "00f11b2b309e115f41615d71dbf28158ebbf4c6f931ccb562d049736f15b96bb",
+    "crop_xywh": [
+      384,
+      104,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SCID_SCI02_range96_160",
+    "dataset": "Contrast32",
+    "source_dataset": "SCID",
+    "source_group": "SCID_SCI02",
+    "condition": "range96_160",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SCID_SCI02_range96_160.pgm",
+    "sha256": "df4fce1c8b7887ba3062719948f751cb784df4e81450bd3fc588316dcd6002c6",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SCID_SCI02.pgm",
+    "source_sha256": "00f11b2b309e115f41615d71dbf28158ebbf4c6f931ccb562d049736f15b96bb",
+    "crop_xywh": [
+      384,
+      104,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SCID_SCI02_inverted32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "SCID",
+    "source_group": "SCID_SCI02",
+    "condition": "inverted32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SCID_SCI02_inverted32_224.pgm",
+    "sha256": "c7cf0f28412f62870500eb60c05fa011dccd469b5f568e1fbaa815ddbb64a0e8",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SCID_SCI02.pgm",
+    "source_sha256": "00f11b2b309e115f41615d71dbf28158ebbf4c6f931ccb562d049736f15b96bb",
+    "crop_xywh": [
+      384,
+      104,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SIQAD_cim1_original",
+    "dataset": "Contrast32",
+    "source_dataset": "SIQAD",
+    "source_group": "SIQAD_cim1",
+    "condition": "original",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SIQAD_cim1_original.pgm",
+    "sha256": "b772bcf27aeea3fded6395d7a684073722300b2dc80ca5b5458dd8899971482f",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SIQAD_cim1.pgm",
+    "source_sha256": "f8d683361af6e0c61d86bbbf6fac5a7e6cfdc9faf3074ffd7f57d8b7e07f9b28",
+    "crop_xywh": [
+      80,
+      85,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SIQAD_cim1_range32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "SIQAD",
+    "source_group": "SIQAD_cim1",
+    "condition": "range32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SIQAD_cim1_range32_224.pgm",
+    "sha256": "33cdab6375bcffd2bd8405bea52ffd80a9a5be5793c809aceb2c33406782f878",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SIQAD_cim1.pgm",
+    "source_sha256": "f8d683361af6e0c61d86bbbf6fac5a7e6cfdc9faf3074ffd7f57d8b7e07f9b28",
+    "crop_xywh": [
+      80,
+      85,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SIQAD_cim1_range96_160",
+    "dataset": "Contrast32",
+    "source_dataset": "SIQAD",
+    "source_group": "SIQAD_cim1",
+    "condition": "range96_160",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SIQAD_cim1_range96_160.pgm",
+    "sha256": "564563d5cc33453bdfaf1a3ab65a3e28999a929345484507ab40d3f60bbfb18a",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SIQAD_cim1.pgm",
+    "source_sha256": "f8d683361af6e0c61d86bbbf6fac5a7e6cfdc9faf3074ffd7f57d8b7e07f9b28",
+    "crop_xywh": [
+      80,
+      85,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SIQAD_cim1_inverted32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "SIQAD",
+    "source_group": "SIQAD_cim1",
+    "condition": "inverted32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SIQAD_cim1_inverted32_224.pgm",
+    "sha256": "5f8df8604b4d8893a54d7fe875b57d445f840157365f610906f6a1e81c93cc7c",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SIQAD_cim1.pgm",
+    "source_sha256": "f8d683361af6e0c61d86bbbf6fac5a7e6cfdc9faf3074ffd7f57d8b7e07f9b28",
+    "crop_xywh": [
+      80,
+      85,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SIQAD_cim10_original",
+    "dataset": "Contrast32",
+    "source_dataset": "SIQAD",
+    "source_group": "SIQAD_cim10",
+    "condition": "original",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SIQAD_cim10_original.pgm",
+    "sha256": "16898170856a5266b54e5fa87197cb976a4c8a87ebb1b3a3cc3563b3112f2155",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SIQAD_cim10.pgm",
+    "source_sha256": "7d809b9745bc40378029d1eb08e23fc1043b1905a5da66e05b1245d51e9c5272",
+    "crop_xywh": [
+      80,
+      128,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SIQAD_cim10_range32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "SIQAD",
+    "source_group": "SIQAD_cim10",
+    "condition": "range32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SIQAD_cim10_range32_224.pgm",
+    "sha256": "ec32ec68c725e93f529273405c5adc7a166a20ec44e3a5542b2bfc8c63eee7cb",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SIQAD_cim10.pgm",
+    "source_sha256": "7d809b9745bc40378029d1eb08e23fc1043b1905a5da66e05b1245d51e9c5272",
+    "crop_xywh": [
+      80,
+      128,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SIQAD_cim10_range96_160",
+    "dataset": "Contrast32",
+    "source_dataset": "SIQAD",
+    "source_group": "SIQAD_cim10",
+    "condition": "range96_160",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SIQAD_cim10_range96_160.pgm",
+    "sha256": "8fb1546371c4edf89d6ddcf0aee18dea661e29c8a3e973d80366d77e0aa756e5",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SIQAD_cim10.pgm",
+    "source_sha256": "7d809b9745bc40378029d1eb08e23fc1043b1905a5da66e05b1245d51e9c5272",
+    "crop_xywh": [
+      80,
+      128,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "SIQAD_cim10_inverted32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "SIQAD",
+    "source_group": "SIQAD_cim10",
+    "condition": "inverted32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/SIQAD_cim10_inverted32_224.pgm",
+    "sha256": "28c02978be3f93b0dddf49f13cde374885085768e95742a8e1c69fe344cc538a",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/SIQAD_cim10.pgm",
+    "source_sha256": "7d809b9745bc40378029d1eb08e23fc1043b1905a5da66e05b1245d51e9c5272",
+    "crop_xywh": [
+      80,
+      128,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "Kodak_kodim01_original",
+    "dataset": "Contrast32",
+    "source_dataset": "Kodak",
+    "source_group": "Kodak_kodim01",
+    "condition": "original",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/Kodak_kodim01_original.pgm",
+    "sha256": "0e37be3d2a9c35ac7b1a5eb9dd1210f537ea786fc91a51f20e5fa13551b4762d",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/Kodak_kodim01.pgm",
+    "source_sha256": "2e7053ff5822ae17941971fe6e4ec88bb85d27dab5d82dc05fa6f9a6585b2a9f",
+    "crop_xywh": [
+      128,
+      0,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "Kodak_kodim01_range32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "Kodak",
+    "source_group": "Kodak_kodim01",
+    "condition": "range32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/Kodak_kodim01_range32_224.pgm",
+    "sha256": "7f38a3ca4516a584d6939489fc3d6c54917cdc6d44ad898bc2adbaaf28972b00",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/Kodak_kodim01.pgm",
+    "source_sha256": "2e7053ff5822ae17941971fe6e4ec88bb85d27dab5d82dc05fa6f9a6585b2a9f",
+    "crop_xywh": [
+      128,
+      0,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "Kodak_kodim01_range96_160",
+    "dataset": "Contrast32",
+    "source_dataset": "Kodak",
+    "source_group": "Kodak_kodim01",
+    "condition": "range96_160",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/Kodak_kodim01_range96_160.pgm",
+    "sha256": "e6caaf1dc7f2182af2146cf6e01a71a7655507e4d75fa54b8d69088cb5e334cc",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/Kodak_kodim01.pgm",
+    "source_sha256": "2e7053ff5822ae17941971fe6e4ec88bb85d27dab5d82dc05fa6f9a6585b2a9f",
+    "crop_xywh": [
+      128,
+      0,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "Kodak_kodim01_inverted32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "Kodak",
+    "source_group": "Kodak_kodim01",
+    "condition": "inverted32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/Kodak_kodim01_inverted32_224.pgm",
+    "sha256": "f17f6c35bbe5fec94595e236c527d870e98082faaba4047debef4afd8c759d47",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/Kodak_kodim01.pgm",
+    "source_sha256": "2e7053ff5822ae17941971fe6e4ec88bb85d27dab5d82dc05fa6f9a6585b2a9f",
+    "crop_xywh": [
+      128,
+      0,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "Kodak_kodim02_original",
+    "dataset": "Contrast32",
+    "source_dataset": "Kodak",
+    "source_group": "Kodak_kodim02",
+    "condition": "original",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/Kodak_kodim02_original.pgm",
+    "sha256": "298cbe48be984c91939cf684a50e379b95a827347c2bdef84f44c235c77a6256",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/Kodak_kodim02.pgm",
+    "source_sha256": "c568a30b4b561ad8db76959f53ead1083dfba1e456d6545ed98075ae8bbbeaed",
+    "crop_xywh": [
+      128,
+      0,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "Kodak_kodim02_range32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "Kodak",
+    "source_group": "Kodak_kodim02",
+    "condition": "range32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/Kodak_kodim02_range32_224.pgm",
+    "sha256": "411a66332b84c398129db265b401b516e648ab27b70ebc58ce3e4abecc6a1ea7",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/Kodak_kodim02.pgm",
+    "source_sha256": "c568a30b4b561ad8db76959f53ead1083dfba1e456d6545ed98075ae8bbbeaed",
+    "crop_xywh": [
+      128,
+      0,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "Kodak_kodim02_range96_160",
+    "dataset": "Contrast32",
+    "source_dataset": "Kodak",
+    "source_group": "Kodak_kodim02",
+    "condition": "range96_160",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/Kodak_kodim02_range96_160.pgm",
+    "sha256": "275bc2e9c91dd2fe2c86faf3717c57940d5d0f2a537a3b9082d58f58c83b76a2",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/Kodak_kodim02.pgm",
+    "source_sha256": "c568a30b4b561ad8db76959f53ead1083dfba1e456d6545ed98075ae8bbbeaed",
+    "crop_xywh": [
+      128,
+      0,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "Kodak_kodim02_inverted32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "Kodak",
+    "source_group": "Kodak_kodim02",
+    "condition": "inverted32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/Kodak_kodim02_inverted32_224.pgm",
+    "sha256": "a68d4cf3c28e548ebbeac4ac2cfebe39ed016746aefab16c6a511f7b3d640579",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/public84/Kodak_kodim02.pgm",
+    "source_sha256": "c568a30b4b561ad8db76959f53ead1083dfba1e456d6545ed98075ae8bbbeaed",
+    "crop_xywh": [
+      128,
+      0,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "real01_original",
+    "dataset": "Contrast32",
+    "source_dataset": "Real20",
+    "source_group": "real01",
+    "condition": "original",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/real01_original.pgm",
+    "sha256": "3207c490eb0f1c9fb0cdad8bd0272b29036401e9c5c2248f75e28d125e047108",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/real20/real01.pgm",
+    "source_sha256": "38ef1ac51b208554e22aa7291491a855d1c7b69c2b554fd9b1853478abc802f7",
+    "crop_xywh": [
+      1214,
+      468,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "real01_range32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "Real20",
+    "source_group": "real01",
+    "condition": "range32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/real01_range32_224.pgm",
+    "sha256": "51b22d85e72b10fbcf20eec3ed54fde503d10c0f7c0bd4f6c38f91d04a946121",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/real20/real01.pgm",
+    "source_sha256": "38ef1ac51b208554e22aa7291491a855d1c7b69c2b554fd9b1853478abc802f7",
+    "crop_xywh": [
+      1214,
+      468,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "real01_range96_160",
+    "dataset": "Contrast32",
+    "source_dataset": "Real20",
+    "source_group": "real01",
+    "condition": "range96_160",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/real01_range96_160.pgm",
+    "sha256": "fad2589694806b7d9c6baba6b4d0766b4e96d8dbcef09d82494e2a464a109b57",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/real20/real01.pgm",
+    "source_sha256": "38ef1ac51b208554e22aa7291491a855d1c7b69c2b554fd9b1853478abc802f7",
+    "crop_xywh": [
+      1214,
+      468,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "real01_inverted32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "Real20",
+    "source_group": "real01",
+    "condition": "inverted32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/real01_inverted32_224.pgm",
+    "sha256": "1a4ed70d4778513d7cad4b3d8e642b71689015d15b3f8e995a50e80fd8023534",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/real20/real01.pgm",
+    "source_sha256": "38ef1ac51b208554e22aa7291491a855d1c7b69c2b554fd9b1853478abc802f7",
+    "crop_xywh": [
+      1214,
+      468,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "real02_original",
+    "dataset": "Contrast32",
+    "source_dataset": "Real20",
+    "source_group": "real02",
+    "condition": "original",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/real02_original.pgm",
+    "sha256": "5a01f1178fd8c68ae170d247de2435c0cab05ee3bcf5a52d6fdc6bdc47df0b39",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/real20/real02.pgm",
+    "source_sha256": "4e6c62722e4fb25c83ecf42fd5ed8721cc82c11071ee402f81ae4d0b92559519",
+    "crop_xywh": [
+      1214,
+      468,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "real02_range32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "Real20",
+    "source_group": "real02",
+    "condition": "range32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/real02_range32_224.pgm",
+    "sha256": "4f8b900162e70850eb0d10cc44f68819f1f34743000521342c4ff54544c51196",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/real20/real02.pgm",
+    "source_sha256": "4e6c62722e4fb25c83ecf42fd5ed8721cc82c11071ee402f81ae4d0b92559519",
+    "crop_xywh": [
+      1214,
+      468,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "real02_range96_160",
+    "dataset": "Contrast32",
+    "source_dataset": "Real20",
+    "source_group": "real02",
+    "condition": "range96_160",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/real02_range96_160.pgm",
+    "sha256": "0880b692bb03d9963843c17783d6d612193ddcfc3686559f5c4458092f19103e",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/real20/real02.pgm",
+    "source_sha256": "4e6c62722e4fb25c83ecf42fd5ed8721cc82c11071ee402f81ae4d0b92559519",
+    "crop_xywh": [
+      1214,
+      468,
+      512,
+      512
+    ]
+  },
+  {
+    "id": "real02_inverted32_224",
+    "dataset": "Contrast32",
+    "source_dataset": "Real20",
+    "source_group": "real02",
+    "condition": "inverted32_224",
+    "width": 512,
+    "height": 512,
+    "pixels": 262144,
+    "path": "data/contrast32/real02_inverted32_224.pgm",
+    "sha256": "c340efd9b9fba676e69ba52654674bbb44c7e1610074ff57f0173a51987bb300",
+    "source_path": "<原工作区>/02_JPEG截断感知编码/算法机制创新_结构上下文预测_2026-10-18/v11_真实截图与强基线_2026-10-18/data/real20/real02.pgm",
+    "source_sha256": "4e6c62722e4fb25c83ecf42fd5ed8721cc82c11071ee402f81ae4d0b92559519",
+    "crop_xywh": [
+      1214,
+      468,
+      512,
+      512
+    ]
+  }
+]

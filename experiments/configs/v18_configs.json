@@ -1,0 +1,16 @@
+{
+ "binary": "bin/flif_v18_final",
+ "flags": ["-R0"],
+ "base_env": {"SMEM_SOFT_CONTEXT":"1","SMEM_GEOMETRY_PALETTE":"1","SMEM_TRANSPORT_CELL":"1","SMEM_EXACT_CELL":"1","SMEM_RESIDUAL_MIX":"1","SMEM_EXPERT_LEARNING":"2","SMEM_ONLINE_PREDICTOR":"5",
+              "SMEM_LMIX":"4","SMEM_LMIX_LR":"0.01","SMEM_LMIX_LRMIN":"0.0005","SMEM_LMIX_FLR":"0.0005","SMEM_CM_LIMIT":"30","SMEM_CM":"20","SMEM_NCM":"1","SMEM_HIST":"8","SMEM_CM_BITS":"20","SMEM_HIST_BITS":"18"},
+ "configs": {
+  "v18_final":      {"SMEM_PCC":"2","SMEM_PCC_CMX":"20","SMEM_PCC_HC":"8","SMEM_PCC_RUN":"32","SMEM_PCC_BANK":"0"},
+  "abl_capacity":   {"SMEM_PCC":"2","SMEM_PCC_CMX":"20","SMEM_PCC_HC":"8","SMEM_PCC_RUN":"32","SMEM_PCC_BANK":"0","SMEM_PCC_FORCEPOS":"1"},
+  "abl_hard":       {"SMEM_PCC":"1","SMEM_PCC_RUN":"32"},
+  "abl_noPCC_v17":  {"SMEM_PCC":"0"},
+  "abl_nonorm":     {"SMEM_PCC":"2","SMEM_PCC_CMX":"20","SMEM_PCC_HC":"8","SMEM_PCC_RUN":"32","SMEM_PCC_BANK":"0","SMEM_NO_NORM":"1"}
+ },
+ "dev_images": ["SCID_SCI01","SCID_SCI05","SCID_SCI12","SIQAD_cim3","Kodak_kodim03","real02"],
+ "dev_note": "PCC parameters (mode 2, 20+8 canonical copies, RUN=32, no weight bank) chosen on the 6 dev images + 6 dev_mix composites built only from them. All other images held out.",
+ "binary_sha1": "3769a81ac8ed614f354cc0028a37a41bd18906be"
+}

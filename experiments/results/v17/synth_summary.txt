@@ -1,0 +1,15 @@
+== G_final: 1000 complete groups
+  vs flif_author_matched    n=1000 median= 28.011% total= 26.835% W/L=1000/0
+  vs flif_author_default    n=1000 median= 34.347% total= 32.665% W/L=1000/0
+  vs webp_author_lossless   n=1000 median= 23.766% total= 23.376% W/L=1000/0
+  vs jpegxl_e9              n=1000 median= 31.609% total= 30.326% W/L=1000/0
+  vs v9_cached              n=1000 median= 10.102% total=  9.627% W/L=1000/0
+  vs v10_regime             n=1000 median=  9.760% total=  9.329% W/L=1000/0
+  vs synth:A0_v12           n=1000 median=  8.883% total=  8.515% W/L=1000/0
+== A0_v12: 1000 complete groups
+  vs flif_author_matched    n=1000 median= 20.907% total= 20.025% W/L=1000/0
+  vs flif_author_default    n=1000 median= 27.635% total= 26.397% W/L=1000/0
+  vs webp_author_lossless   n=1000 median= 16.346% total= 16.244% W/L=1000/0
+  vs jpegxl_e9              n=1000 median= 24.827% total= 23.841% W/L=1000/0
+  vs v9_cached              n=1000 median=  1.232% total=  1.216% W/L=1000/0
+  vs v10_regime             n=1000 median=  0.881% total=  0.890% W/L=1000/0

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+codec/flif_pcc/src/flif
+codec/flif_pcc/src/*.o
+codec/flif_pcc/src/**/*.o
+build/
+*.pcc
+restored.pgm
+out.flif
+*.tmp
+# 论文正文与构建产物不随仓库发布
+paper/
+*.docx

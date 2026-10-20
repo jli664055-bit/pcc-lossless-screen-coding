@@ -1,0 +1,74 @@
+[
+ {
+  "config": "A0_v12",
+  "image": "SCID_SCI01",
+  "enc_s": 2.57,
+  "dec_s": 1.07,
+  "enc_rss_mb": 409.796608,
+  "dec_rss_mb": 409.157632,
+  "bytes": null
+ },
+ {
+  "config": "A0_v12",
+  "image": "SIQAD_cim10",
+  "enc_s": 1.51,
+  "dec_s": 0.65,
+  "enc_rss_mb": 384.303104,
+  "dec_rss_mb": 383.811584,
+  "bytes": null
+ },
+ {
+  "config": "A0_v12",
+  "image": "Kodak_kodim01",
+  "enc_s": 2.6,
+  "dec_s": 1.16,
+  "enc_rss_mb": 416.022528,
+  "dec_rss_mb": 415.760384,
+  "bytes": null
+ },
+ {
+  "config": "A0_v12",
+  "image": "real01",
+  "enc_s": 9.47,
+  "dec_s": 3.83,
+  "enc_rss_mb": 415.547392,
+  "dec_rss_mb": 414.810112,
+  "bytes": null
+ },
+ {
+  "config": "F_full",
+  "image": "SCID_SCI01",
+  "enc_s": 4.31,
+  "dec_s": 2.42,
+  "enc_rss_mb": 410.599424,
+  "dec_rss_mb": 410.025984,
+  "bytes": null
+ },
+ {
+  "config": "F_full",
+  "image": "SIQAD_cim10",
+  "enc_s": 2.59,
+  "dec_s": 1.5,
+  "enc_rss_mb": 387.923968,
+  "dec_rss_mb": 387.416064,
+  "bytes": null
+ },
+ {
+  "config": "F_full",
+  "image": "Kodak_kodim01",
+  "enc_s": 4.48,
+  "dec_s": 2.76,
+  "enc_rss_mb": 421.134336,
+  "dec_rss_mb": 420.872192,
+  "bytes": null
+ },
+ {
+  "config": "F_full",
+  "image": "real01",
+  "enc_s": 15.4,
+  "dec_s": 8.35,
+  "enc_rss_mb": 417.284096,
+  "dec_rss_mb": 416.579584,
+  "bytes": null
+ }
+]

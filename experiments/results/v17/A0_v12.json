@@ -1,0 +1,1100 @@
+{
+ "config": "A0_v12",
+ "env": {
+  "SMEM_LMIX_LR": "0.01",
+  "SMEM_LMIX_LRMIN": "0.0005",
+  "SMEM_LMIX_FLR": "0.0005",
+  "SMEM_CM_LIMIT": "30",
+  "SMEM_LMIX": "0"
+ },
+ "rows": [
+  {
+   "bytes": 87630,
+   "lossless": true,
+   "enc_s": 4.346084416960366,
+   "dec_s": 1.777656374964863,
+   "id": "SCID_SCI01",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 137332,
+   "lossless": true,
+   "enc_s": 4.922086042002775,
+   "dec_s": 2.0514128339709714,
+   "id": "SCID_SCI02",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 132571,
+   "lossless": true,
+   "enc_s": 4.642383750062436,
+   "dec_s": 2.008034541970119,
+   "id": "SCID_SCI03",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 169878,
+   "lossless": true,
+   "enc_s": 6.633592666941695,
+   "dec_s": 2.6602777501102537,
+   "id": "SCID_SCI04",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 26126,
+   "lossless": true,
+   "enc_s": 3.007920040981844,
+   "dec_s": 1.2295037910807878,
+   "id": "SCID_SCI05",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 536139,
+   "lossless": true,
+   "enc_s": 10.091411166940816,
+   "dec_s": 4.4035132909193635,
+   "id": "SCID_SCI06",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 286007,
+   "lossless": true,
+   "enc_s": 7.371104958001524,
+   "dec_s": 2.9998654169030488,
+   "id": "SCID_SCI07",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 85106,
+   "lossless": true,
+   "enc_s": 4.1623762919334695,
+   "dec_s": 1.7281853329623118,
+   "id": "SCID_SCI08",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 152936,
+   "lossless": true,
+   "enc_s": 5.911917457939126,
+   "dec_s": 2.5300321250688285,
+   "id": "SCID_SCI09",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 283639,
+   "lossless": true,
+   "enc_s": 7.264247082988732,
+   "dec_s": 3.08912804198917,
+   "id": "SCID_SCI10",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 135455,
+   "lossless": true,
+   "enc_s": 5.208041041973047,
+   "dec_s": 2.168604958918877,
+   "id": "SCID_SCI11",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 76611,
+   "lossless": true,
+   "enc_s": 3.9309402080252767,
+   "dec_s": 1.7884177080122754,
+   "id": "SCID_SCI12",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 413052,
+   "lossless": true,
+   "enc_s": 8.995968583971262,
+   "dec_s": 3.830052125034854,
+   "id": "SCID_SCI13",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 137944,
+   "lossless": true,
+   "enc_s": 5.732347375014797,
+   "dec_s": 2.243630792014301,
+   "id": "SCID_SCI14",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 161777,
+   "lossless": true,
+   "enc_s": 5.200305624981411,
+   "dec_s": 2.1994355829665437,
+   "id": "SCID_SCI15",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 157411,
+   "lossless": true,
+   "enc_s": 5.926110457978211,
+   "dec_s": 2.544161166995764,
+   "id": "SCID_SCI16",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 393398,
+   "lossless": true,
+   "enc_s": 9.001544291968457,
+   "dec_s": 3.8598037080373615,
+   "id": "SCID_SCI17",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 99509,
+   "lossless": true,
+   "enc_s": 4.545356875052676,
+   "dec_s": 1.8423852499108762,
+   "id": "SCID_SCI18",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 392793,
+   "lossless": true,
+   "enc_s": 8.759465249953791,
+   "dec_s": 3.6417238749563694,
+   "id": "SCID_SCI19",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 36887,
+   "lossless": true,
+   "enc_s": 3.2915849579731002,
+   "dec_s": 1.3956443750066683,
+   "id": "SCID_SCI20",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 108572,
+   "lossless": true,
+   "enc_s": 5.379875959013589,
+   "dec_s": 2.457149791996926,
+   "id": "SCID_SCI21",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 261984,
+   "lossless": true,
+   "enc_s": 6.765846624970436,
+   "dec_s": 2.833389666979201,
+   "id": "SCID_SCI22",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 86513,
+   "lossless": true,
+   "enc_s": 4.340687749907374,
+   "dec_s": 1.8268316659377888,
+   "id": "SCID_SCI23",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 56035,
+   "lossless": true,
+   "enc_s": 4.712959749973379,
+   "dec_s": 2.0358157079899684,
+   "id": "SCID_SCI24",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 254231,
+   "lossless": true,
+   "enc_s": 6.991548084071837,
+   "dec_s": 2.776161624933593,
+   "id": "SCID_SCI25",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 133554,
+   "lossless": true,
+   "enc_s": 5.464585124980658,
+   "dec_s": 2.214568458031863,
+   "id": "SCID_SCI26",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 186015,
+   "lossless": true,
+   "enc_s": 7.487962167011574,
+   "dec_s": 2.96738558402285,
+   "id": "SCID_SCI27",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 368631,
+   "lossless": true,
+   "enc_s": 8.921085499925539,
+   "dec_s": 3.555945915984921,
+   "id": "SCID_SCI28",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 84364,
+   "lossless": true,
+   "enc_s": 4.499975249986164,
+   "dec_s": 1.974888665950857,
+   "id": "SCID_SCI29",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 16889,
+   "lossless": true,
+   "enc_s": 3.394285042071715,
+   "dec_s": 1.4515258750179783,
+   "id": "SCID_SCI30",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 100677,
+   "lossless": true,
+   "enc_s": 5.518378166947514,
+   "dec_s": 2.268289417028427,
+   "id": "SCID_SCI31",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 48708,
+   "lossless": true,
+   "enc_s": 4.201917583006434,
+   "dec_s": 1.7116912079509348,
+   "id": "SCID_SCI32",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 139579,
+   "lossless": true,
+   "enc_s": 6.139754749950953,
+   "dec_s": 2.4695996249793097,
+   "id": "SCID_SCI33",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 7718,
+   "lossless": true,
+   "enc_s": 3.2009108340134844,
+   "dec_s": 1.3025306249037385,
+   "id": "SCID_SCI34",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 94117,
+   "lossless": true,
+   "enc_s": 4.720282249967568,
+   "dec_s": 1.9521169579820707,
+   "id": "SCID_SCI35",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 78644,
+   "lossless": true,
+   "enc_s": 4.254722249926999,
+   "dec_s": 1.8434473749948665,
+   "id": "SCID_SCI36",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 41396,
+   "lossless": true,
+   "enc_s": 3.7128800000064075,
+   "dec_s": 1.5446520000696182,
+   "id": "SCID_SCI37",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 384761,
+   "lossless": true,
+   "enc_s": 9.652499541989528,
+   "dec_s": 3.8648254590807483,
+   "id": "SCID_SCI38",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 73405,
+   "lossless": true,
+   "enc_s": 4.75242520798929,
+   "dec_s": 2.0244838340440765,
+   "id": "SCID_SCI39",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 107695,
+   "lossless": true,
+   "enc_s": 4.898526042001322,
+   "dec_s": 2.0123472090344876,
+   "id": "SCID_SCI40",
+   "dataset": "SCID"
+  },
+  {
+   "bytes": 83988,
+   "lossless": true,
+   "enc_s": 2.9401119579561055,
+   "dec_s": 1.3347999590914696,
+   "id": "SIQAD_cim1",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 51887,
+   "lossless": true,
+   "enc_s": 2.825558542041108,
+   "dec_s": 1.2027203339384869,
+   "id": "SIQAD_cim10",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 196423,
+   "lossless": true,
+   "enc_s": 5.247540917014703,
+   "dec_s": 2.1606924580410123,
+   "id": "SIQAD_cim11",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 125484,
+   "lossless": true,
+   "enc_s": 3.6808656249195337,
+   "dec_s": 1.6398931670701131,
+   "id": "SIQAD_cim12",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 86189,
+   "lossless": true,
+   "enc_s": 2.6975877499207854,
+   "dec_s": 1.1939857919933274,
+   "id": "SIQAD_cim13",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 86459,
+   "lossless": true,
+   "enc_s": 2.501937917084433,
+   "dec_s": 1.1737188340630382,
+   "id": "SIQAD_cim14",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 76320,
+   "lossless": true,
+   "enc_s": 3.0700433329911903,
+   "dec_s": 1.376881624921225,
+   "id": "SIQAD_cim15",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 90348,
+   "lossless": true,
+   "enc_s": 3.4408605420030653,
+   "dec_s": 1.4762406249064952,
+   "id": "SIQAD_cim16",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 90851,
+   "lossless": true,
+   "enc_s": 3.7000461249845102,
+   "dec_s": 1.6033570420695469,
+   "id": "SIQAD_cim17",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 209342,
+   "lossless": true,
+   "enc_s": 5.990121249924414,
+   "dec_s": 2.5641307909972966,
+   "id": "SIQAD_cim18",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 147193,
+   "lossless": true,
+   "enc_s": 4.812011042027734,
+   "dec_s": 2.0590822910889983,
+   "id": "SIQAD_cim19",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 51495,
+   "lossless": true,
+   "enc_s": 2.3919595840852708,
+   "dec_s": 1.0357235830742866,
+   "id": "SIQAD_cim2",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 188487,
+   "lossless": true,
+   "enc_s": 4.687741082976572,
+   "dec_s": 2.009254875010811,
+   "id": "SIQAD_cim20",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 70333,
+   "lossless": true,
+   "enc_s": 2.9327110829763114,
+   "dec_s": 1.324771749903448,
+   "id": "SIQAD_cim3",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 71379,
+   "lossless": true,
+   "enc_s": 2.85150795802474,
+   "dec_s": 1.280138915986754,
+   "id": "SIQAD_cim4",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 79531,
+   "lossless": true,
+   "enc_s": 3.2489700000733137,
+   "dec_s": 1.4239489580504596,
+   "id": "SIQAD_cim5",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 159390,
+   "lossless": true,
+   "enc_s": 5.0410340840462595,
+   "dec_s": 2.1611397080123425,
+   "id": "SIQAD_cim6",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 35865,
+   "lossless": true,
+   "enc_s": 2.1625248750206083,
+   "dec_s": 0.9307000000262633,
+   "id": "SIQAD_cim7",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 95787,
+   "lossless": true,
+   "enc_s": 3.602628124994226,
+   "dec_s": 1.5975754170212895,
+   "id": "SIQAD_cim8",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 201233,
+   "lossless": true,
+   "enc_s": 4.781254042056389,
+   "dec_s": 1.9922612910158932,
+   "id": "SIQAD_cim9",
+   "dataset": "SIQAD"
+  },
+  {
+   "bytes": 249577,
+   "lossless": true,
+   "enc_s": 4.610190625069663,
+   "dec_s": 2.0069491249741986,
+   "id": "Kodak_kodim01",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 187032,
+   "lossless": true,
+   "enc_s": 4.364786250051111,
+   "dec_s": 1.8069217499578372,
+   "id": "Kodak_kodim02",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 157992,
+   "lossless": true,
+   "enc_s": 4.139304874930531,
+   "dec_s": 1.7172656250186265,
+   "id": "Kodak_kodim03",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 194245,
+   "lossless": true,
+   "enc_s": 4.654787875013426,
+   "dec_s": 1.9036148329032585,
+   "id": "Kodak_kodim04",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 237935,
+   "lossless": true,
+   "enc_s": 4.942345833056606,
+   "dec_s": 2.122202540980652,
+   "id": "Kodak_kodim05",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 214770,
+   "lossless": true,
+   "enc_s": 4.309943833970465,
+   "dec_s": 1.8638839169871062,
+   "id": "Kodak_kodim06",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 164357,
+   "lossless": true,
+   "enc_s": 4.261658833012916,
+   "dec_s": 1.817580874892883,
+   "id": "Kodak_kodim07",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 247576,
+   "lossless": true,
+   "enc_s": 4.73299558297731,
+   "dec_s": 2.1105445000575855,
+   "id": "Kodak_kodim08",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 184445,
+   "lossless": true,
+   "enc_s": 4.32405683293473,
+   "dec_s": 1.8200132499914616,
+   "id": "Kodak_kodim09",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 185084,
+   "lossless": true,
+   "enc_s": 4.417176333954558,
+   "dec_s": 1.9104522910201922,
+   "id": "Kodak_kodim10",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 206263,
+   "lossless": true,
+   "enc_s": 4.299701458890922,
+   "dec_s": 1.8755029171006754,
+   "id": "Kodak_kodim11",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 178587,
+   "lossless": true,
+   "enc_s": 4.1353627080097795,
+   "dec_s": 1.7088203330058604,
+   "id": "Kodak_kodim12",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 282976,
+   "lossless": true,
+   "enc_s": 4.654436957906,
+   "dec_s": 2.115492874989286,
+   "id": "Kodak_kodim13",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 231033,
+   "lossless": true,
+   "enc_s": 4.711030083009973,
+   "dec_s": 2.0643965000053868,
+   "id": "Kodak_kodim14",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 178542,
+   "lossless": true,
+   "enc_s": 4.057414958020672,
+   "dec_s": 1.770527624990791,
+   "id": "Kodak_kodim15",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 189955,
+   "lossless": true,
+   "enc_s": 4.3586815419839695,
+   "dec_s": 1.8503815409494564,
+   "id": "Kodak_kodim16",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 192618,
+   "lossless": true,
+   "enc_s": 4.600628208019771,
+   "dec_s": 1.9336941669462249,
+   "id": "Kodak_kodim17",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 240857,
+   "lossless": true,
+   "enc_s": 4.719528292072937,
+   "dec_s": 2.0393860830226913,
+   "id": "Kodak_kodim18",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 211487,
+   "lossless": true,
+   "enc_s": 4.525314416037872,
+   "dec_s": 1.9332312080077827,
+   "id": "Kodak_kodim19",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 143541,
+   "lossless": true,
+   "enc_s": 3.2156000830000266,
+   "dec_s": 1.4019478330155835,
+   "id": "Kodak_kodim20",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 212566,
+   "lossless": true,
+   "enc_s": 4.474870332982391,
+   "dec_s": 1.8984706660266966,
+   "id": "Kodak_kodim21",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 216549,
+   "lossless": true,
+   "enc_s": 4.515068916953169,
+   "dec_s": 1.9564537089318037,
+   "id": "Kodak_kodim22",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 163428,
+   "lossless": true,
+   "enc_s": 4.293354541994631,
+   "dec_s": 1.8291443329071626,
+   "id": "Kodak_kodim23",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 213036,
+   "lossless": true,
+   "enc_s": 4.473151209065691,
+   "dec_s": 2.1015362920006737,
+   "id": "Kodak_kodim24",
+   "dataset": "Kodak"
+  },
+  {
+   "bytes": 293186,
+   "lossless": true,
+   "enc_s": 16.82360750006046,
+   "dec_s": 6.672544999979436,
+   "id": "real01",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 338913,
+   "lossless": true,
+   "enc_s": 18.129616416990757,
+   "dec_s": 7.215018791030161,
+   "id": "real02",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 378596,
+   "lossless": true,
+   "enc_s": 18.29665912501514,
+   "dec_s": 7.233533708029427,
+   "id": "real03",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 330061,
+   "lossless": true,
+   "enc_s": 17.48481220798567,
+   "dec_s": 7.023139583063312,
+   "id": "real04",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 502174,
+   "lossless": true,
+   "enc_s": 20.330895083025098,
+   "dec_s": 8.151454707956873,
+   "id": "real05",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 292248,
+   "lossless": true,
+   "enc_s": 17.088126457994804,
+   "dec_s": 6.71911845903378,
+   "id": "real06",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 306781,
+   "lossless": true,
+   "enc_s": 17.139401624910533,
+   "dec_s": 6.651319125085138,
+   "id": "real07",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 272775,
+   "lossless": true,
+   "enc_s": 16.29499216703698,
+   "dec_s": 6.344818208948709,
+   "id": "real08",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 237176,
+   "lossless": true,
+   "enc_s": 15.50101958308369,
+   "dec_s": 6.089308292022906,
+   "id": "real09",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 378324,
+   "lossless": true,
+   "enc_s": 18.410357875050977,
+   "dec_s": 7.3575879170093685,
+   "id": "real10",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 244050,
+   "lossless": true,
+   "enc_s": 15.65780858299695,
+   "dec_s": 6.061649000039324,
+   "id": "real11",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 198199,
+   "lossless": true,
+   "enc_s": 14.650088916998357,
+   "dec_s": 5.578411374939606,
+   "id": "real12",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 226494,
+   "lossless": true,
+   "enc_s": 15.257619083975442,
+   "dec_s": 5.857017625006847,
+   "id": "real13",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 364100,
+   "lossless": true,
+   "enc_s": 17.8875639999751,
+   "dec_s": 6.9729672078974545,
+   "id": "real14",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 311493,
+   "lossless": true,
+   "enc_s": 16.858315750025213,
+   "dec_s": 6.561827666941099,
+   "id": "real15",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 212240,
+   "lossless": true,
+   "enc_s": 15.00922145799268,
+   "dec_s": 5.798498666030355,
+   "id": "real16",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 196117,
+   "lossless": true,
+   "enc_s": 14.702189875068143,
+   "dec_s": 5.6888101670192555,
+   "id": "real17",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 325773,
+   "lossless": true,
+   "enc_s": 18.184272125014104,
+   "dec_s": 6.552123917033896,
+   "id": "real18",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 371539,
+   "lossless": true,
+   "enc_s": 18.58257958397735,
+   "dec_s": 6.432491542072967,
+   "id": "real19",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 431948,
+   "lossless": true,
+   "enc_s": 20.897197457961738,
+   "dec_s": 5.367868582950905,
+   "id": "real20",
+   "dataset": "Real20"
+  },
+  {
+   "bytes": 157253,
+   "lossless": true,
+   "enc_s": 3.0644957500044256,
+   "dec_s": 1.35426729102619,
+   "id": "Kodak_kodim01_inverted32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 171207,
+   "lossless": true,
+   "enc_s": 3.1301924170693383,
+   "dec_s": 1.4535915419692174,
+   "id": "Kodak_kodim01_original",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 157278,
+   "lossless": true,
+   "enc_s": 3.045540750026703,
+   "dec_s": 1.3955957080470398,
+   "id": "Kodak_kodim01_range32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 107886,
+   "lossless": true,
+   "enc_s": 2.6977022499777377,
+   "dec_s": 1.192731291987002,
+   "id": "Kodak_kodim01_range96_160",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 115608,
+   "lossless": true,
+   "enc_s": 2.7317192080663517,
+   "dec_s": 1.2725545419380069,
+   "id": "Kodak_kodim02_inverted32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 128827,
+   "lossless": true,
+   "enc_s": 3.006253083003685,
+   "dec_s": 1.2959635829320177,
+   "id": "Kodak_kodim02_original",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 115609,
+   "lossless": true,
+   "enc_s": 2.8370154589647427,
+   "dec_s": 1.2198090839665383,
+   "id": "Kodak_kodim02_range32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 69275,
+   "lossless": true,
+   "enc_s": 2.0884066249709576,
+   "dec_s": 0.8876707080053166,
+   "id": "Kodak_kodim02_range96_160",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 28153,
+   "lossless": true,
+   "enc_s": 1.4521950419293717,
+   "dec_s": 0.6277066249167547,
+   "id": "SCID_SCI01_inverted32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 30900,
+   "lossless": true,
+   "enc_s": 1.4926087920321152,
+   "dec_s": 0.6644068750320002,
+   "id": "SCID_SCI01_original",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 28154,
+   "lossless": true,
+   "enc_s": 1.4657390000065789,
+   "dec_s": 0.6566581249935552,
+   "id": "SCID_SCI01_range32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 18003,
+   "lossless": true,
+   "enc_s": 1.2111454580444843,
+   "dec_s": 0.5302209999645129,
+   "id": "SCID_SCI01_range96_160",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 20775,
+   "lossless": true,
+   "enc_s": 1.2193255830788985,
+   "dec_s": 0.524025124963373,
+   "id": "SCID_SCI02_inverted32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 22358,
+   "lossless": true,
+   "enc_s": 1.2374989999225363,
+   "dec_s": 0.520420707995072,
+   "id": "SCID_SCI02_original",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 20782,
+   "lossless": true,
+   "enc_s": 1.1949763749726117,
+   "dec_s": 0.533776167081669,
+   "id": "SCID_SCI02_range32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 16181,
+   "lossless": true,
+   "enc_s": 1.1559402500279248,
+   "dec_s": 0.48639087507035583,
+   "id": "SCID_SCI02_range96_160",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 30672,
+   "lossless": true,
+   "enc_s": 1.4943845830857754,
+   "dec_s": 0.665075583034195,
+   "id": "SIQAD_cim10_inverted32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 32155,
+   "lossless": true,
+   "enc_s": 1.4832844169577584,
+   "dec_s": 0.6811125410022214,
+   "id": "SIQAD_cim10_original",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 30705,
+   "lossless": true,
+   "enc_s": 1.4805574159836397,
+   "dec_s": 0.6657407089369372,
+   "id": "SIQAD_cim10_range32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 24078,
+   "lossless": true,
+   "enc_s": 1.4111592499539256,
+   "dec_s": 0.6155617500189692,
+   "id": "SIQAD_cim10_range96_160",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 43374,
+   "lossless": true,
+   "enc_s": 1.657054791925475,
+   "dec_s": 0.7133865830255672,
+   "id": "SIQAD_cim1_inverted32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 46856,
+   "lossless": true,
+   "enc_s": 1.6948410840705037,
+   "dec_s": 0.7590986669529229,
+   "id": "SIQAD_cim1_original",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 43419,
+   "lossless": true,
+   "enc_s": 1.6162799999583513,
+   "dec_s": 0.7214537500403821,
+   "id": "SIQAD_cim1_range32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 30952,
+   "lossless": true,
+   "enc_s": 1.3943726670695469,
+   "dec_s": 0.6158796669915318,
+   "id": "SIQAD_cim1_range96_160",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 27695,
+   "lossless": true,
+   "enc_s": 1.073798125027679,
+   "dec_s": 0.4912209580652416,
+   "id": "real01_inverted32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 30372,
+   "lossless": true,
+   "enc_s": 1.170689249993302,
+   "dec_s": 0.5052046249620616,
+   "id": "real01_original",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 27645,
+   "lossless": true,
+   "enc_s": 1.0739249580074102,
+   "dec_s": 0.4765445829834789,
+   "id": "real01_range32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 18290,
+   "lossless": true,
+   "enc_s": 1.025824916898273,
+   "dec_s": 0.4272495839977637,
+   "id": "real01_range96_160",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 39607,
+   "lossless": true,
+   "enc_s": 1.3817309589358047,
+   "dec_s": 0.5857451660558581,
+   "id": "real02_inverted32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 43441,
+   "lossless": true,
+   "enc_s": 1.453724541934207,
+   "dec_s": 0.5964343750383705,
+   "id": "real02_original",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 39837,
+   "lossless": true,
+   "enc_s": 1.276486208080314,
+   "dec_s": 0.4918672079220414,
+   "id": "real02_range32_224",
+   "dataset": "contrast32"
+  },
+  {
+   "bytes": 26020,
+   "lossless": true,
+   "enc_s": 1.171293166000396,
+   "dec_s": 0.4152486249804497,
+   "id": "real02_range96_160",
+   "dataset": "contrast32"
+  }
+ ]
+}

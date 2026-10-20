@@ -1,0 +1,21 @@
+归一化(极性/对比度不变)专家的贡献：完整模型 vs 去掉归一化专家
+v17 SCID                               n= 40 median= 0.915% total= 1.031% W/L=37/3
+v17 SIQAD                              n= 20 median= 0.662% total= 0.897% W/L=19/1
+v17 Kodak                              n= 24 median=-0.052% total=-0.029% W/L=5/19
+v17 Real20                             n= 20 median= 0.303% total= 0.267% W/L=16/4
+v17 contrast32/original                n=  8 median= 0.100% total= 0.153% W/L=6/2
+v17 contrast32/inverted32_224          n=  8 median= 0.177% total= 0.167% W/L=6/2
+v17 contrast32/range32_224             n=  8 median= 0.146% total= 0.147% W/L=5/3
+v17 contrast32/range96_160             n=  8 median= 0.134% total= 0.222% W/L=4/4
+同一对比在 v12 混合方式下：
+v12 All104                             n=104 median= 1.453% total= 1.391% W/L=92/12
+v12 contrast32/original                n=  8 median= 1.839% total= 1.331% W/L=8/0
+v12 contrast32/inverted32_224          n=  8 median= 2.160% total= 1.554% W/L=7/1
+v12 contrast32/range32_224             n=  8 median= 2.105% total= 1.458% W/L=7/1
+v12 contrast32/range96_160             n=  8 median= 2.157% total= 1.703% W/L=8/0
+v17 相对 v12 按数据集：
+F vs v12 SCID                          n= 40 median= 8.154% total= 6.287% W/L=40/0
+F vs v12 SIQAD                         n= 20 median= 7.518% total= 6.787% W/L=20/0
+F vs v12 Kodak                         n= 24 median= 2.819% total= 2.883% W/L=24/0
+F vs v12 Real20                        n= 20 median= 5.884% total= 6.123% W/L=20/0
+F vs v12 contrast32                    n= 32 median= 7.320% total= 5.006% W/L=32/0

@@ -1,0 +1,202 @@
+[
+ {
+  "image": "SCID_SCI01",
+  "method": "png9",
+  "bytes": 141341,
+  "enc_s": 0.09,
+  "dec_s": 0.04,
+  "enc_rss_mb": 34.832384
+ },
+ {
+  "image": "SCID_SCI01",
+  "method": "j2k",
+  "bytes": 303580,
+  "enc_s": 0.08,
+  "dec_s": 0.07,
+  "enc_rss_mb": 44.269568
+ },
+ {
+  "image": "SCID_SCI01",
+  "method": "webp_m6",
+  "bytes": 133716,
+  "enc_s": 2.2899999999999996,
+  "dec_s": 0.06999999999999999,
+  "enc_rss_mb": 128.2048
+ },
+ {
+  "image": "SCID_SCI01",
+  "method": "jxl_e9",
+  "bytes": 128951,
+  "enc_s": 0.79,
+  "dec_s": 0.07,
+  "enc_rss_mb": 75.85792
+ },
+ {
+  "image": "SCID_SCI01",
+  "method": "flif_default",
+  "bytes": 136122,
+  "enc_s": 0.3,
+  "dec_s": 0.06,
+  "enc_rss_mb": 4.374528
+ },
+ {
+  "image": "SIQAD_cim10",
+  "method": "png9",
+  "bytes": 103615,
+  "enc_s": 0.08,
+  "dec_s": 0.04,
+  "enc_rss_mb": 34.603008
+ },
+ {
+  "image": "SIQAD_cim10",
+  "method": "j2k",
+  "bytes": 196215,
+  "enc_s": 0.06999999999999999,
+  "dec_s": 0.06,
+  "enc_rss_mb": 38.846464
+ },
+ {
+  "image": "SIQAD_cim10",
+  "method": "webp_m6",
+  "bytes": 73948,
+  "enc_s": 3.38,
+  "dec_s": 0.06999999999999999,
+  "enc_rss_mb": 140.689408
+ },
+ {
+  "image": "SIQAD_cim10",
+  "method": "jxl_e9",
+  "bytes": 86006,
+  "enc_s": 0.56,
+  "dec_s": 0.06,
+  "enc_rss_mb": 60.604416
+ },
+ {
+  "image": "SIQAD_cim10",
+  "method": "flif_default",
+  "bytes": 80817,
+  "enc_s": 0.15,
+  "dec_s": 0.03,
+  "enc_rss_mb": 3.2768
+ },
+ {
+  "image": "Kodak_kodim01",
+  "method": "png9",
+  "bytes": 285614,
+  "enc_s": 0.060000000000000005,
+  "dec_s": 0.04,
+  "enc_rss_mb": 33.25952
+ },
+ {
+  "image": "Kodak_kodim01",
+  "method": "j2k",
+  "bytes": 267181,
+  "enc_s": 0.08,
+  "dec_s": 0.07,
+  "enc_rss_mb": 37.10976
+ },
+ {
+  "image": "Kodak_kodim01",
+  "method": "webp_m6",
+  "bytes": 256712,
+  "enc_s": 4.51,
+  "dec_s": 0.06999999999999999,
+  "enc_rss_mb": 175.357952
+ },
+ {
+  "image": "Kodak_kodim01",
+  "method": "jxl_e9",
+  "bytes": 250607,
+  "enc_s": 0.42,
+  "dec_s": 0.06999999999999999,
+  "enc_rss_mb": 69.369856
+ },
+ {
+  "image": "Kodak_kodim01",
+  "method": "flif_default",
+  "bytes": 263031,
+  "enc_s": 0.18,
+  "dec_s": 0.04,
+  "enc_rss_mb": 2.883584
+ },
+ {
+  "image": "real01",
+  "method": "png9",
+  "bytes": 480954,
+  "enc_s": 0.13,
+  "dec_s": 0.060000000000000005,
+  "enc_rss_mb": 44.351488
+ },
+ {
+  "image": "real01",
+  "method": "j2k",
+  "bytes": 614513,
+  "enc_s": 0.13,
+  "dec_s": 0.13,
+  "enc_rss_mb": 84.033536
+ },
+ {
+  "image": "real01",
+  "method": "webp_m6",
+  "bytes": 400036,
+  "enc_s": 4.1499999999999995,
+  "dec_s": 0.08,
+  "enc_rss_mb": 275.726336
+ },
+ {
+  "image": "real01",
+  "method": "jxl_e9",
+  "bytes": 393442,
+  "enc_s": 2.6199999999999997,
+  "dec_s": 0.15000000000000002,
+  "enc_rss_mb": 154.959872
+ },
+ {
+  "image": "real01",
+  "method": "flif_default",
+  "bytes": 355573,
+  "enc_s": 1.24,
+  "dec_s": 0.25,
+  "enc_rss_mb": 7.86432
+ },
+ {
+  "image": "MixBand_SCI02",
+  "method": "png9",
+  "bytes": 214053,
+  "enc_s": 0.09,
+  "dec_s": 0.05,
+  "enc_rss_mb": 34.799616
+ },
+ {
+  "image": "MixBand_SCI02",
+  "method": "j2k",
+  "bytes": 308973,
+  "enc_s": 0.09,
+  "dec_s": 0.08,
+  "enc_rss_mb": 44.023808
+ },
+ {
+  "image": "MixBand_SCI02",
+  "method": "webp_m6",
+  "bytes": 192118,
+  "enc_s": 2.8699999999999997,
+  "dec_s": 0.06999999999999999,
+  "enc_rss_mb": 124.43648
+ },
+ {
+  "image": "MixBand_SCI02",
+  "method": "jxl_e9",
+  "bytes": 180035,
+  "enc_s": 1.07,
+  "dec_s": 0.09,
+  "enc_rss_mb": 73.367552
+ },
+ {
+  "image": "MixBand_SCI02",
+  "method": "flif_default",
+  "bytes": 193530,
+  "enc_s": 0.3,
+  "dec_s": 0.06,
+  "enc_rss_mb": 4.161536
+ }
+]

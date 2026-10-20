@@ -1,0 +1,81 @@
+{
+ "binary": "bin/flif_v17",
+ "common": {
+  "SMEM_LMIX_LR": "0.01",
+  "SMEM_LMIX_LRMIN": "0.0005",
+  "SMEM_LMIX_FLR": "0.0005",
+  "SMEM_CM_LIMIT": "30"
+ },
+ "configs": {
+  "A0_v12": {
+   "SMEM_LMIX": "0"
+  },
+  "A1_mix1_apm": {
+   "SMEM_LMIX": "2"
+  },
+  "A2_mix3_apm": {
+   "SMEM_LMIX": "4"
+  },
+  "A3_plus_cm": {
+   "SMEM_LMIX": "4",
+   "SMEM_CM": "20"
+  },
+  "A4_plus_ncm": {
+   "SMEM_LMIX": "4",
+   "SMEM_CM": "20",
+   "SMEM_NCM": "1"
+  },
+  "F_full": {
+   "SMEM_LMIX": "4",
+   "SMEM_CM": "20",
+   "SMEM_NCM": "1",
+   "SMEM_HIST": "4"
+  },
+  "F_no_norm": {
+   "SMEM_LMIX": "4",
+   "SMEM_CM": "20",
+   "SMEM_NCM": "1",
+   "SMEM_HIST": "4",
+   "SMEM_NO_NORM": "1"
+  },
+  "A0_no_norm": {
+   "SMEM_LMIX": "0",
+   "SMEM_NO_NORM": "1"
+  },
+  "G_final": {
+   "SMEM_LMIX": "4",
+   "SMEM_CM": "20",
+   "SMEM_NCM": "1",
+   "SMEM_HIST": "8",
+   "SMEM_CM_BITS": "20",
+   "SMEM_HIST_BITS": "18"
+  },
+  "G_no_norm": {
+   "SMEM_LMIX": "4",
+   "SMEM_CM": "20",
+   "SMEM_NCM": "1",
+   "SMEM_HIST": "8",
+   "SMEM_CM_BITS": "20",
+   "SMEM_HIST_BITS": "18",
+   "SMEM_NO_NORM": "1"
+  }
+ },
+ "dev_images": [
+  "SCID_SCI01",
+  "SCID_SCI05",
+  "SCID_SCI12",
+  "SIQAD_cim3",
+  "Kodak_kodim03",
+  "real02"
+ ],
+ "note": "All parameters were tuned on the 6 dev images only; the other 98 images and contrast32 are held out.",
+ "final_binary": "bin/flif_v17_final",
+ "final_flags": [
+  "-R0"
+ ],
+ "final_configs": [
+  "G_final",
+  "G_no_norm"
+ ],
+ "note2": "G_* configs use final_binary + final_flags (lazy residual paths, squash/reciprocal tables, 8 histogram experts, tables 2^20/2^18, MANIAC learn repeats 0). Tuned on the same 6 dev images."
+}
